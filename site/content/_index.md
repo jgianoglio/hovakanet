@@ -1,13 +1,24 @@
 ---
 title: HOVAKANET
 subtitle: Learning for fun!
-image: /img/home-jumbotron.jpg
+image: img/everything.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: What is HOVAKANET?
+  text: >-
+    Hovakanet is a company, online shopping, app, a search engine, and many
+    other things.
+
+
+    You can shop for about anything you'd like. You can order it and it will arrive as soon as possible. The goods will be very good quality. Depending on what it is, or where you are we may also do services.
+
+
+    Hovakanet is also a search engine. You can type or speak into what you're using and it will show up. There will be images, shopping, videos, games, and articles. You will also be able to comment what you think.
+
+
+    There will also be an app called "Learning for Fun!" You can select a grade, and then pick a subject. Then you can learn and have adventures!
+
+
+    There will also be Hovakanet Clubs. You can sign up and arrive when it starts. It will be very educational and fun. It will be for any age from 5 to 15.
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
