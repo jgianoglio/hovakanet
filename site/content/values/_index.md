@@ -1,14 +1,11 @@
 ---
 title: About
-image: /img/about-jumbotron.jpg
+image: img/will.jpg
 values:
-  - heading: Shade-grown coffee
-    text: >
-      Coffee is a small tree or shrub that grows in the forest understory in its
-      wild form, and traditionally was grown commercially under other trees that
-      provided shade. The forest-like structure of shade coffee farms provides
-      habitat for a great number of migratory and resident species.
-    imageUrl: /img/about-shade-grown.jpg
+  - heading: Things about the Creator
+    text: I am William Gianoglio. I invented Hovakanet when I was 9 years old. I
+      hope you like Hovakanet.
+    imageUrl: img/00100lrportrait_00100_burst20200216182211856_cover.jpg
   - heading: Single origin
     text: >
       Single-origin coffee is coffee grown within a single known geographic
